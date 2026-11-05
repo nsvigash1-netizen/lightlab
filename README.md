@@ -1,4 +1,4 @@
-# LightLab 2.0
+# LightLab
 
 A physics-based room illumination simulator.
 
